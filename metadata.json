@@ -1,0 +1,8 @@
+{
+  "name": "SkyReels v0.5.1",
+  "description": "A modern, minimalistic AT Protocol-inspired social video feed (PWA). Features a TikTok-style vertical scrolling interface, dark mode aesthetics, and Gemini-powered content assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
